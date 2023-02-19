@@ -1,4 +1,4 @@
-package com.chackomathew.boot;
+package com.chackomathew.attributeconverterissue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

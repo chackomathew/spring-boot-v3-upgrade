@@ -1,4 +1,4 @@
-package com.chackomathew.boot;
+package com.chackomathew.attributeconverterissue;
 
 import java.util.List;
 

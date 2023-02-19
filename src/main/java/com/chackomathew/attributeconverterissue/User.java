@@ -1,4 +1,4 @@
-package com.chackomathew.boot;
+package com.chackomathew.attributeconverterissue;
 
 import org.hibernate.type.NumericBooleanConverter;
 import org.hibernate.type.YesNoConverter;
